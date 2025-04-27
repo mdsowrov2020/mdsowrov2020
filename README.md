@@ -6,10 +6,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning **Advanced Next.js and Web3 Technologies**
+- 🌱 I’m currently learning **Full stack web development**
 - 👯 I’m looking to collaborate on **React/Next.js Projects**
 - 🤝 I’m open to help with **Frontend challenges**
-- 📫 How to reach me **sowrovkhadem@example.com** (replace with your real email)
+- 📫 How to reach me **mdsowrovkhadem@gmail.com** (replace with your real email)
 - ⚡ Fun fact **I love solving real-world problems and learning new tech!**
 
 ---
