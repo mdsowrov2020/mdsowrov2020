@@ -52,9 +52,7 @@
 
 ## 📰 Latest Tech Articles:
 
-<a href="https://app.daily.dev/mdsowrovkhadem">
-  <img src="https://api.daily.dev/devcards/v2/itRW1Ae9RNBiKkiACT6MX.png?type=default&r=j7r" width="356" alt="Md Sowrov Khadem's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/mdsowrovkhadem"><img src="https://api.daily.dev/devcards/v2/itRW1Ae9RNBiKkiACT6MX.png?type=wide&r=j7r" width="100%" alt="Md Sowrov Khadem's Dev Card"/></a>
 
 ---
 
