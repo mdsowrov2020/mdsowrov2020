@@ -53,6 +53,11 @@
 ## 📰 Latest Tech Articles:
 
 <a href="https://app.daily.dev/mdsowrovkhadem"><img src="https://api.daily.dev/devcards/v2/itRW1Ae9RNBiKkiACT6MX.png?type=wide&r=j7r" width="100%" alt="Md Sowrov Khadem's Dev Card"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-sowrov-316968177/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Sowrov%20Khadem-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
 
 ---
 
