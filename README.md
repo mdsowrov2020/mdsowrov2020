@@ -1,58 +1,74 @@
-<!-- Banner Image -->
+<!-- Hero Banner -->
 <img src="https://i.imgur.com/7D0Wbop.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Md Sowrov Khadem</h1>
-<h3 align="center">A passionate Frontend Engineer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🌱 I’m currently learning **Full stack web development**
-- 👯 I’m looking to collaborate on **React/Next.js Projects**
-- 🤝 I’m open to help with **Frontend challenges**
-- 📫 How to reach me **mdsowrovkhadem@gmail.com** (replace with your real email)
-- ⚡ Fun fact **I love solving real-world problems and learning new tech!**
-
----
-
-### 🛠️ Tech Stack:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats:
+<h3 align="center">🚀 Frontend Engineer | 🖌️ UI/UX Enthusiast | 🌍 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowrovkhadem&show_icons=true&theme=radical" alt="Sowrov's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowrovkhadem&theme=radical" alt="Sowrov's GitHub Streak" />
+  <a href="https://github.com/mdsowrov2020">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2F+Next.js+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
 </p>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+
+## 🚀 About Me:
+
+- 🔭 I’m currently working on **Next.js / TypeScript Projects**
+- 🌱 Exploring **Server Components**, **Edge Functions**
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/mdsowrov2020)
+- 📫 How to reach me: **mdsowrovkhadem@gmail.com**
+- ⚡ Fun fact: I love solving UI challenges and optimizing performance!
 
 ---
 
-### 🌐 Connect with me:
+## 🛠️ My Tech Stack:
 
 <p align="left">
-  <a href="https://linkedin.com/in/sowrovkhadem" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sowrovkhadem@example.com" target="blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgresql,tailwind" />
 </p>
 
 ---
 
-<!-- Snake eating contribution graph -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake gif" />
+## 📊 GitHub Stats:
 
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mdsowrov2020&show_icons=true&theme=tokyonight&hide_border=true" width="300"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsowrov2020&theme=tokyonight&hide_border=true" width="300"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsowrov2020&layout=compact&theme=tokyonight&hide_border=true" width="200"/></td>
+    </tr>
+  </table>
+</p>
+
+
+---
+
+
+
+---
+
+## 📰 Latest Tech Articles:
+
+<a href="https://app.daily.dev/mdsowrovkhadem">
+  <img src="https://api.daily.dev/devcards/v2/itRW1Ae9RNBiKkiACT6MX.png?type=default&r=j7r" width="356" alt="Md Sowrov Khadem's Dev Card"/>
+</a>
+
+---
+
+## 🌐 Connect With Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:mdsowrovkhadem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🐍 GitHub Contributions Snake:
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
