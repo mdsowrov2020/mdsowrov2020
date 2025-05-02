@@ -1,5 +1,5 @@
 <!-- Hero Banner -->
-<img src="https://i.imgur.com/7D0Wbop.png" alt="Banner" width="100%" />
+<!-- <img src="https://i.imgur.com/7D0Wbop.png" alt="Banner" width="100%" /> -->
 
 <h1 align="center">Hi 👋, I'm Md Sowrov Khadem</h1>
 
